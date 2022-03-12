@@ -1,0 +1,4 @@
+repository "DotsMan@ssl://brooklyn-1564203@sh03-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/yuanotes" 
+     
